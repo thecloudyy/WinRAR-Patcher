@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+*.egg-info/
+.idea/
+.vscode/
+*.spec
+*.o
+bin/
+obj/
